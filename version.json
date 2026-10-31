@@ -1,19 +1,23 @@
 {
   "versao": 1,
-  "bloquear_dominios": [
-    "doubleclick.net",
-    "googlesyndication.com",
-    "googleadservices.com",
-    "adservice.google.com",
-    "ads.youtube.com",
-    "taboola.com",
-    "outbrain.com",
-    "adnxs.com"
+  "servidores": [
+    { "tipo": "piped", "url": "https://pipedapi.kavin.rocks" },
+    { "tipo": "piped", "url": "https://pipedapi.leptons.xyz" },
+    { "tipo": "piped", "url": "https://pipedapi.nosebs.ru" },
+    { "tipo": "piped", "url": "https://pipedapi.adminforge.de" },
+    { "tipo": "piped", "url": "https://pipedapi.drgns.space" },
+    { "tipo": "piped", "url": "https://pipedapi.owo.si" },
+    { "tipo": "piped", "url": "https://pipedapi.reallyaweso.me" },
+    { "tipo": "inv", "url": "https://inv.nadeko.net" },
+    { "tipo": "inv", "url": "https://yewtu.be" }
   ],
-  "esconder_css": [
-    "ins.adsbygoogle",
-    "ytd-ad-slot-renderer",
-    "#masthead-ad",
-    ".ytp-ad-module"
+  "chave_api": "",
+  "sponsorblock": "https://sponsor.ajay.app",
+  "secoes": [
+    { "key": "filmes", "title": "🎬 Filmes", "q": "filme completo dublado português", "min": 3000 },
+    { "key": "faroeste", "title": "🤠 Filmes de faroeste", "q": "filme de faroeste completo dublado", "min": 3000 },
+    { "key": "animes", "title": "🎌 Animes", "q": "anime completo dublado português", "min": 1200 },
+    { "key": "animais", "title": "🦁 Animais e vida selvagem", "q": "documentário animais vida selvagem português", "min": 1200 },
+    { "key": "natureza", "title": "🌿 Natureza", "q": "documentário natureza paisagens português brasil", "min": 1200 }
   ]
 }
