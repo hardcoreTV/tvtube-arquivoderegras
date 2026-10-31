@@ -1,2 +1,19 @@
-"versionCode": 1,
-  "versionName": "1.0",
+{
+  "versao": 1,
+  "bloquear_dominios": [
+    "doubleclick.net",
+    "googlesyndication.com",
+    "googleadservices.com",
+    "adservice.google.com",
+    "ads.youtube.com",
+    "taboola.com",
+    "outbrain.com",
+    "adnxs.com"
+  ],
+  "esconder_css": [
+    "ins.adsbygoogle",
+    "ytd-ad-slot-renderer",
+    "#masthead-ad",
+    ".ytp-ad-module"
+  ]
+}
