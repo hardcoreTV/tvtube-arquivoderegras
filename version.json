@@ -1,15 +1,9 @@
 {
   "versao": 1,
   "servidores": [
-    { "tipo": "piped", "url": "https://pipedapi.kavin.rocks" },
-    { "tipo": "piped", "url": "https://pipedapi.leptons.xyz" },
-    { "tipo": "piped", "url": "https://pipedapi.nosebs.ru" },
-    { "tipo": "piped", "url": "https://pipedapi.adminforge.de" },
-    { "tipo": "piped", "url": "https://pipedapi.drgns.space" },
-    { "tipo": "piped", "url": "https://pipedapi.owo.si" },
-    { "tipo": "piped", "url": "https://pipedapi.reallyaweso.me" },
-    { "tipo": "inv", "url": "https://inv.nadeko.net" },
-    { "tipo": "inv", "url": "https://yewtu.be" }
+    {"tipo": "piped", "url": "https://api.piped.private.coffee"},
+    {"tipo": "piped", "url": "https://pipedapi.ducks.party"},
+    {"tipo": "inv", "url": "https://yt.chocolatemoo53.com"}
   ],
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
